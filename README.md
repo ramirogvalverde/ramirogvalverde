@@ -11,6 +11,7 @@ I have always been passionate about the intersection of technology and creativit
 ## Contact
 
 If you have any questions, suggestions, or just want to say hello, feel free to reach out to me.
+
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ramirogvalverde)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ramiro-guti%C3%A9rrez-valverde-55a244180/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ramirogvalverde@gmail.com)
