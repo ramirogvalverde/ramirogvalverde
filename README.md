@@ -8,6 +8,8 @@ My experience in Fine Arts has honed my creativity, critical thinking, and atten
 
 I have always been passionate about the intersection of technology and creativity, which led me to pursue studies in both programming and the arts. My studies in DAM are providing me a solid foundation in various programming languages, software development methodologies, and the creation of multiplatform applications.
 
+I would also like to mention that my experience in various customer-facing roles has provided me with exceptional interpersonal skills and the ability to connect with people effectively. I value communication and collaboration, and I believe these skills will be valuable assets in any team-based project or professional environment.
+
 ## Contact
 
 If you have any questions, suggestions, or just want to say hello, feel free to reach out to me.
