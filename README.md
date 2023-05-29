@@ -1,4 +1,9 @@
 ### Hi there 👋
+### This is Ramiro Gutiérrez!
+
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ramirogvalverde)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ramiro-guti%C3%A9rrez-valverde-55a244180/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ramirogvalverde@gmail.com)
 
 <!--
 **ramirogvalverde/ramirogvalverde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
