@@ -1,6 +1,13 @@
-### Hi there 👋
-### This is Ramiro Gutiérrez!
+Hello there! Welcome to my GitHub repository. My name is Ramiro, and I am a student of **DAM (Development of Multiplatform Applications)** and a graduate in **Fine Arts** from the University of Salamanca.
 
+## About Me
+
+
+My experience in Fine Arts has honed my creativity, critical thinking, and attention to detail. It has enabled me to approach problem-solving from unique perspectives and incorporate innovative design elements into my projects.
+
+I have always been passionate about the intersection of technology and creativity, which led me to pursue studies in both programming and the arts. My studies in DAM are providing me a solid foundation in various programming languages, software development methodologies, and the creation of multiplatform applications.
+
+## Contact Me
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ramirogvalverde)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ramiro-guti%C3%A9rrez-valverde-55a244180/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ramirogvalverde@gmail.com)
