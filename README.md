@@ -1,6 +1,6 @@
-##Hello there!
+## Hello there!
 
-Welcome to my GitHub repository. My name is **Ramiro, and I am a student of **DAM (Development of Multiplatform Applications)** and a graduate in **Fine Arts** from the University of Salamanca.
+Welcome to my GitHub repository. My name is **Ramiro**, and I am a student of **DAM (Development of Multiplatform Applications)** and a graduate in **Fine Arts** from the University of Salamanca.
 
 ## About Me
 
@@ -15,7 +15,7 @@ I have always been passionate about the intersection of technology and creativit
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ramirogvalverde@gmail.com)
 
 
-### Languages and Tools I´m using/learning
+## Languages and Tools I´m using/learning
    
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/hritik5102)](https://github.com/hritik5102)  
