@@ -8,8 +8,9 @@ My experience in Fine Arts has honed my creativity, critical thinking, and atten
 
 I have always been passionate about the intersection of technology and creativity, which led me to pursue studies in both programming and the arts. My studies in DAM are providing me a solid foundation in various programming languages, software development methodologies, and the creation of multiplatform applications.
 
-## Contact Me
+## Contact
 
+If you have any questions, suggestions, or just want to say hello, feel free to reach out to me.
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ramirogvalverde)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ramiro-guti%C3%A9rrez-valverde-55a244180/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ramirogvalverde@gmail.com)
@@ -27,20 +28,8 @@ I have always been passionate about the intersection of technology and creativit
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/hritik5102)](https://github.com/hritik5102)
 
-<!--
-**ramirogvalverde/ramirogvalverde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ![ramirogvalverde's github stats](https://github-readme-stats.vercel.app/api?username=ramirogvalverde&show_icons=true&theme=dark)
 
-⭐️ From [ramirogvalverde](https://github.com/ramirogvalverde)
+From [ramirogvalverde](https://github.com/ramirogvalverde)
