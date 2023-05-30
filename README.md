@@ -33,7 +33,9 @@ If you have any questions, suggestions, or just want to say hello, feel free to 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/hritik5102)](https://github.com/hritik5102)
 
 ##
-
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=ramirogvalverde&&style=flat-square" align="center" /> </div>
 ![ramirogvalverde's github stats](https://github-readme-stats.vercel.app/api?username=ramirogvalverde&show_icons=true&theme=dark)
 
 From [ramirogvalverde](https://github.com/ramirogvalverde)
+
+
