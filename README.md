@@ -14,7 +14,7 @@
 
 ## About Me
 
-My experience in Fine Arts has honed my creativity, critical thinking, and attention to detail. It has enabled me to approach problem-solving from unique perspectives and incorporate innovative design elements into my projects.
+My experience in Fine Arts has honed my creativity, critical thinking and attention to detail. It has enabled me to approach problem-solving from unique perspectives and incorporate innovative design elements into my projects.
 
 I have always been passionate about the intersection of technology and creativity, which led me to pursue studies in both programming and the arts. My studies in DAM are providing me a solid foundation in various programming languages, software development methodologies, and the creation of multiplatform applications.
 
