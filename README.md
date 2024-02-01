@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Backend Development  
   
 
-- 📫 contact me at [ramirogvalverde](ramirogvalverde@gmail.com)  
+- 📫 contact me at [ramirogvalverde](mailto:ramirogvalverde@gmail.com)  
   
 
 <br/>  
