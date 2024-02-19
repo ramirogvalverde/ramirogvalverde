@@ -1,7 +1,7 @@
 ### Welcome to my GitHub repository. My name is Ramiro, and I am a student of DAM (Development of Multiplatform Applications) and a graduate in Fine Arts from the University of Salamanca.  
   
 
-- 🔭 I’m currently working on [DAMT2](https://github.com/ramirogvalverde/DAMT2)  
+- 🔭 I’m currently working on [DAMT2](https://github.com/ramirogvalverde/DAMT2)  (privado temporalmente)
   
 
 - 🌱 I’m currently learning Backend Development  
